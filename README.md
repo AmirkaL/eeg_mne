@@ -116,8 +116,3 @@ This script will:
 - Baseline correction is applied (-256 to 0 ms)
 - ERP components N2 (200-300 ms) and P3 (300-500 ms) are analyzed
 - All results are automatically saved in appropriate formats
-
-## License
-
-This project is provided as-is for research purposes.
-
